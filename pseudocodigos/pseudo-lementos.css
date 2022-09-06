@@ -1,0 +1,12 @@
+.btn:hover::before{
+ content: "!hecho";
+
+}
+.btn2::before {
+    content: "pasar por encima "
+
+}
+.div:hover{
+    background-color: green;
+    color: white;
+}
